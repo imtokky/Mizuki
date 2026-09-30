@@ -1,7 +1,9 @@
-# GI
+# Mizuki
 yay
 
 some features are still in development, so not all of them are working yet
+
+https://discord.gg/7c38bMcMK5
 
 # Features
 
