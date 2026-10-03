@@ -1,4 +1,4 @@
-# Mizuki
+# Mizuki - GI
 yay
 
 some features are still in development, so not all of them are working yet
