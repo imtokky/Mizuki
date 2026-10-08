@@ -5,6 +5,14 @@ some features are still in development, so not all of them are working yet
 
 https://discord.gg/7c38bMcMK5
 
+## what is mini Mizuki?
+This is a simplified version with limited features, not the full version of Mizuki. There is no overlay menu.
+
+Godmode enabled by default
+
+5x multi-hit enabled
+
+
 # Features
 
 ## Player
