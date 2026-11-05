@@ -28,13 +28,11 @@ Godmode enabled by default
 - Infinite Phlogiston
 - No Avatar Change CD
 - Transparency
-- Player Info
 
 ## Combat
 - Kill Aura
 - AoE Damage
 - Rapid Fire / Hit Multiplier
-- Instant Bow
 - No Skill Cooldown
 - CD Reducer
 - Infinite Ultimate
