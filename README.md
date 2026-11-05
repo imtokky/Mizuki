@@ -53,6 +53,7 @@ Godmode enabled by default
 
 ## World
 - Auto Loot
+- Auto Oculi
 - Auto Destroy
 - Auto Puzzle
 - Auto Seelie
