@@ -18,7 +18,7 @@ Godmode enabled by default
 ## Player
 - God Mode
 - No Fall Damage
-- Fly Mode (NoClip)
+- No Clip
 - Speed Hack
 - Enhanced Movement
 - Unlimited Stamina
